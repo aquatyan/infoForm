@@ -1,0 +1,9 @@
+C:\Users\Aqua\source\repos\InfoWF\InfoWF\bin\Debug\InfoWF.exe.config
+C:\Users\Aqua\source\repos\InfoWF\InfoWF\bin\Debug\InfoWF.exe
+C:\Users\Aqua\source\repos\InfoWF\InfoWF\bin\Debug\InfoWF.pdb
+C:\Users\Aqua\source\repos\InfoWF\InfoWF\obj\Debug\InfoWF.MainForm.resources
+C:\Users\Aqua\source\repos\InfoWF\InfoWF\obj\Debug\InfoWF.Properties.Resources.resources
+C:\Users\Aqua\source\repos\InfoWF\InfoWF\obj\Debug\InfoWF.csproj.GenerateResource.Cache
+C:\Users\Aqua\source\repos\InfoWF\InfoWF\obj\Debug\InfoWF.csproj.CoreCompileInputs.cache
+C:\Users\Aqua\source\repos\InfoWF\InfoWF\obj\Debug\InfoWF.exe
+C:\Users\Aqua\source\repos\InfoWF\InfoWF\obj\Debug\InfoWF.pdb

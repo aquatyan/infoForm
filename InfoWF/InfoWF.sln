@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfoWF", "InfoWF\InfoWF.csproj", "{AFDDE667-8664-479F-956A-4DB6CD4349FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFDDE667-8664-479F-956A-4DB6CD4349FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFDDE667-8664-479F-956A-4DB6CD4349FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFDDE667-8664-479F-956A-4DB6CD4349FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFDDE667-8664-479F-956A-4DB6CD4349FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75181184-E5F8-4AC0-90C2-0E3347D7C33B}
+	EndGlobalSection
+EndGlobal
